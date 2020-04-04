@@ -15,3 +15,7 @@
 
 ## Apps
 * [Lightbot](https://lightbot.com/)
+
+
+## Fun
+* [The Deep Sea](https://neal.fun/deep-sea/)
