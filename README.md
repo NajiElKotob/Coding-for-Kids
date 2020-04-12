@@ -2,7 +2,6 @@
 
 {Work in Process, Stay Tuned}
 
-
 ## Programs
 * [Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/)
 * [Minecraft Hour of Code](https://www.microsoft.com/en-us/digital-skills/hour-of-code) - Uncover hidden treasure and build underwater worlds using creativity and problem solving skills in Voyage Aquatic. 
@@ -16,6 +15,8 @@
 ## Apps
 * [Lightbot](https://lightbot.com/)
 
+## Sience and Math
+* [Legends of learning](https://www.legendsoflearning.com/) - Math and Science Games, legendsoflearning.com
 
 ## Fun
 * [The Deep Sea](https://neal.fun/deep-sea/)
