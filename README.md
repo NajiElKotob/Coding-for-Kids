@@ -15,7 +15,7 @@
 ## Apps
 * [Lightbot](https://lightbot.com/)
 
-## Sience and Math
+## Science and Math
 * [Legends of learning](https://www.legendsoflearning.com/) - Math and Science Games, legendsoflearning.com
 
 ## Fun
