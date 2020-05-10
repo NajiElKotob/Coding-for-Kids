@@ -11,6 +11,8 @@
 * [Tynker](https://www.tynker.com/) - Empowering Kids To Create
 * [Scratch](https://scratch.mit.edu/) - Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.
 
+## Math
+* [A Math Dictionary for Kids (Quick Reference)](http://www.amathsdictionaryforkids.com/qr/a.html) - amathsdictionaryforkids.com
 
 ## Apps
 * [Lightbot](https://lightbot.com/)
