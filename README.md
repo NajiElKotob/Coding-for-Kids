@@ -11,14 +11,13 @@
 * [Tynker](https://www.tynker.com/) - Empowering Kids To Create
 * [Scratch](https://scratch.mit.edu/) - Scratch is a free programming language and online community where you can create your own interactive stories, games, and animations.
 
-## Math
-* [A Math Dictionary for Kids (Quick Reference)](http://www.amathsdictionaryforkids.com/qr/a.html) - amathsdictionaryforkids.com
-
 ## Apps
 * [Lightbot](https://lightbot.com/)
 
 ## Science and Math
 * [Legends of learning](https://www.legendsoflearning.com/) - Math and Science Games, legendsoflearning.com
+* [A Math Dictionary for Kids (Quick Reference)](http://www.amathsdictionaryforkids.com/qr/a.html) - amathsdictionaryforkids.com
+* [Free Worksheets and Printables for Kids](https://www.education.com/worksheets/) - education.com
 
 ## Fun
 * [The Deep Sea](https://neal.fun/deep-sea/)
