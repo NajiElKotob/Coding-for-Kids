@@ -15,6 +15,7 @@
 * [Lightbot](https://lightbot.com/)
 
 ## Science and Math
+* [5th Grade Math Vol 1 (YouTube)](https://www.youtube.com/watch?v=xlK8Smp5Ug8&list=PLnVYEpTNGNtWNqjyerNHdzNHWema_0n2W) - Math and Science 
 * [Legends of learning](https://www.legendsoflearning.com/) - Math and Science Games, legendsoflearning.com
 * [A Math Dictionary for Kids (Quick Reference)](http://www.amathsdictionaryforkids.com/qr/a.html) - amathsdictionaryforkids.com
 * [Free Worksheets and Printables for Kids](https://www.education.com/worksheets/) - education.com
