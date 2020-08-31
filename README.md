@@ -19,6 +19,7 @@
 * [Legends of learning](https://www.legendsoflearning.com/) - Math and Science Games, legendsoflearning.com
 * [A Math Dictionary for Kids (Quick Reference)](http://www.amathsdictionaryforkids.com/qr/a.html) - amathsdictionaryforkids.com
 * [Free Worksheets and Printables for Kids](https://www.education.com/worksheets/) - education.com
+* [IXL](https://www.ixl.com/) - IXL is personalized learning. 
 
 ## Fun
 * [The Deep Sea](https://neal.fun/deep-sea/)
