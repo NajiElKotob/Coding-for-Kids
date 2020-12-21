@@ -13,6 +13,7 @@
 
 ## Apps
 * [Lightbot](https://lightbot.com/)
+* [Typing club](https://www.typingclub.com/) - Learn Touch Typing for free
 
 ## Science and Math
 * JoAnn's School
