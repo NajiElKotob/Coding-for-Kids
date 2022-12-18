@@ -27,6 +27,7 @@
 * [A Math Dictionary for Kids (Quick Reference)](http://www.amathsdictionaryforkids.com/qr/a.html) - amathsdictionaryforkids.com
 * [Free Worksheets and Printables for Kids](https://www.education.com/worksheets/) - education.com
 * [IXL](https://www.ixl.com/) - IXL is personalized learning. 
+* [Math Planet](https://www.mathplanet.com/) ⭐ - mathplanet.com | Study math for free
 
 ### Quizzes
 * [Mathopolis](https://www.mathopolis.com/questions/quizzes.php) - Mathematics Quizzes
