@@ -35,3 +35,4 @@
 ## Fun
 * [The Deep Sea](https://neal.fun/deep-sea/)
 * [Arts and Culture (Interactive)](https://artsandculture.withgoogle.com/en-us/national-parks-service/welcome) - Google
+* [Animated Drawings](https://sketch.metademolab.com/) - metademolab.com | Bring children's drawings to life, by animating characters to move around!
