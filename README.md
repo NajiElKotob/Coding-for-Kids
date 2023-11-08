@@ -1,6 +1,6 @@
 # Coding for Kids
 
-{Work in Process, Stay Tuned}
+{Awesome Works in Process}
 
 ## Programs
 * [Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/)
