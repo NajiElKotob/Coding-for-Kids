@@ -2,5 +2,5 @@
 
 * [Lesson 1: Print and Input](Lesson-1.md)
 * [Lesson 2: Basic Arithmetic](Lesson-2.md)
-
+* [Lesson 3: Conditional Statements](Lesson-3.md)
 
