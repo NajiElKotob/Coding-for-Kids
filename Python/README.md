@@ -66,4 +66,5 @@
 
 
 # Resources and References
-* [Python for Beginners](Check this https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) - Microsoft Developer
+* [Python for Beginners 📺](Check this https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) - Microsoft Developer
+* [Python for Beginners](https://aka.ms/MSLearnPython) - Get started with Python! Learn how to create programs and projects in Python. Work with strings, lists, loops, dictionaries, and functions.
