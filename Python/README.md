@@ -65,4 +65,5 @@
 - **Project Ideas:** More complex game, simple web application (using Flask or Django), automation script.
 
 
-
+# Resources and References
+* [Python for Beginners](Check this https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) - Microsoft Developer
