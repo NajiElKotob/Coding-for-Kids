@@ -4,7 +4,8 @@
 
 ## Setup and Configuration
 ### Python
-* [How to Install Python - The Right Way](https://www.youtube.com/watch?v=YKSpANU8jPE)
+* [How to Install Python - The Right Way 📺](https://www.youtube.com/watch?v=YKSpANU8jPE)
+* [How to set up Python on Visual Studio Code 📺](https://www.youtube.com/watch?v=9o4gDQvVkLU)
   
 ## Programs
 * [Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/)
