@@ -2,6 +2,10 @@
 
 {Awesome Works in Process}
 
+## Setup and Configuration
+### Python
+* [How to Install Python - The Right Way](https://www.youtube.com/watch?v=YKSpANU8jPE)
+  
 ## Programs
 * [Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/)
 * [Minecraft Hour of Code](https://www.microsoft.com/en-us/digital-skills/hour-of-code) - Uncover hidden treasure and build underwater worlds using creativity and problem solving skills in Voyage Aquatic. 
