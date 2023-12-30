@@ -4,8 +4,9 @@
 
 ## Setup and Configuration
 ### Python
-* [How to Install Python - The Right Way 📺](https://www.youtube.com/watch?v=YKSpANU8jPE)
-* [Getting Started with Python in VS Code 📄](https://code.visualstudio.com/docs/python/python-tutorial)
+* [How to Install Python - The Right Way 📺](https://www.youtube.com/watch?v=YKSpANU8jPE) - Python Programmer
+* [Getting Started with Python in VS Code 📄](https://code.visualstudio.com/docs/python/python-tutorial) - code.visualstudio.com
+* [Jupyter Notebooks in VS Code 📺](https://www.youtube.com/watch?v=jNk-ZmeIz6c) - Very Academy
   
 ## Programs
 * [Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/)
