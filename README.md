@@ -39,6 +39,9 @@
 ### Quizzes
 * [Mathopolis](https://www.mathopolis.com/questions/quizzes.php) - Mathematics Quizzes
 
+### Simulators
+* [CircuitVerse](https://circuitverse.org/simulator) - circuitverse.org | Dive into the world of Logic Circuits for free!
+  
 ## Fun
 * [The Deep Sea](https://neal.fun/deep-sea/)
 * [Arts and Culture (Interactive)](https://artsandculture.withgoogle.com/en-us/national-parks-service/welcome) - Google
